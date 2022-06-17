@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Thu Jun 16 21:02:14 2022
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : Game_trinity
+Top-level Entity Name : Game_trinity
+Family : MAX 10
+Total logic elements : 1,272
+    Total combinational functions : 1,238
+    Dedicated logic registers : 498
+Total registers : 498
+Total pins : 65
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

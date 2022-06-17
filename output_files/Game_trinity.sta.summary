@@ -1,0 +1,665 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'GM1:G|bp'
+Slack : -6.992
+TNS   : -19.832
+
+Type  : Slow 1200mV 85C Model Setup 'GM1:G|dp'
+Slack : -6.377
+TNS   : -18.747
+
+Type  : Slow 1200mV 85C Model Setup 'GM1:G|ap'
+Slack : -6.116
+TNS   : -17.395
+
+Type  : Slow 1200mV 85C Model Setup 'GM1:G|fp'
+Slack : -6.034
+TNS   : -17.670
+
+Type  : Slow 1200mV 85C Model Setup 'GM1:G|slow_clk'
+Slack : -6.015
+TNS   : -855.276
+
+Type  : Slow 1200mV 85C Model Setup 'GM1:G|ep'
+Slack : -5.958
+TNS   : -16.715
+
+Type  : Slow 1200mV 85C Model Setup 'GM1:G|cp'
+Slack : -5.933
+TNS   : -16.844
+
+Type  : Slow 1200mV 85C Model Setup 'CLK'
+Slack : -5.659
+TNS   : -759.236
+
+Type  : Slow 1200mV 85C Model Setup 'SW[0]'
+Slack : -5.122
+TNS   : -15.241
+
+Type  : Slow 1200mV 85C Model Setup 'randomV:vector|sclk'
+Slack : -4.613
+TNS   : -127.903
+
+Type  : Slow 1200mV 85C Model Setup 'timer:t|SCLK'
+Slack : -2.765
+TNS   : -8.191
+
+Type  : Slow 1200mV 85C Model Setup 'controller:CC|sp'
+Slack : -2.247
+TNS   : -37.129
+
+Type  : Slow 1200mV 85C Model Setup 'GM1:G|sp'
+Slack : -1.669
+TNS   : -1.669
+
+Type  : Slow 1200mV 85C Model Hold 'CLK'
+Slack : 0.323
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GM1:G|slow_clk'
+Slack : 0.323
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'controller:CC|sp'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'randomV:vector|sclk'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GM1:G|sp'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'timer:t|SCLK'
+Slack : 0.393
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GM1:G|ep'
+Slack : 1.202
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'SW[0]'
+Slack : 1.456
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GM1:G|fp'
+Slack : 1.486
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GM1:G|cp'
+Slack : 1.560
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GM1:G|ap'
+Slack : 1.762
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GM1:G|dp'
+Slack : 1.894
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'GM1:G|bp'
+Slack : 2.329
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'CLK'
+Slack : -3.836
+TNS   : -3.836
+
+Type  : Slow 1200mV 85C Model Recovery 'GM1:G|sp'
+Slack : -3.093
+TNS   : -3.093
+
+Type  : Slow 1200mV 85C Model Recovery 'GM1:G|bp'
+Slack : -2.092
+TNS   : -5.818
+
+Type  : Slow 1200mV 85C Model Recovery 'GM1:G|dp'
+Slack : -1.459
+TNS   : -3.992
+
+Type  : Slow 1200mV 85C Model Recovery 'GM1:G|ap'
+Slack : -1.121
+TNS   : -3.363
+
+Type  : Slow 1200mV 85C Model Recovery 'GM1:G|cp'
+Slack : -1.027
+TNS   : -3.081
+
+Type  : Slow 1200mV 85C Model Recovery 'GM1:G|fp'
+Slack : -0.656
+TNS   : -1.968
+
+Type  : Slow 1200mV 85C Model Recovery 'GM1:G|ep'
+Slack : -0.550
+TNS   : -1.650
+
+Type  : Slow 1200mV 85C Model Removal 'GM1:G|ep'
+Slack : 0.916
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'GM1:G|fp'
+Slack : 1.013
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'GM1:G|cp'
+Slack : 1.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'GM1:G|dp'
+Slack : 1.449
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'GM1:G|ap'
+Slack : 1.496
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CLK'
+Slack : 1.799
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'GM1:G|bp'
+Slack : 2.044
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'GM1:G|sp'
+Slack : 3.543
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -290.615
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'SW[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GM1:G|slow_clk'
+Slack : -1.403
+TNS   : -286.212
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'randomV:vector|sclk'
+Slack : -1.403
+TNS   : -64.538
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'controller:CC|sp'
+Slack : -1.403
+TNS   : -28.060
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'timer:t|SCLK'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GM1:G|ap'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GM1:G|bp'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GM1:G|cp'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GM1:G|dp'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GM1:G|ep'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GM1:G|fp'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'GM1:G|sp'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Slow 1200mV 0C Model Setup 'GM1:G|bp'
+Slack : -6.348
+TNS   : -18.028
+
+Type  : Slow 1200mV 0C Model Setup 'GM1:G|dp'
+Slack : -5.811
+TNS   : -17.019
+
+Type  : Slow 1200mV 0C Model Setup 'GM1:G|ap'
+Slack : -5.529
+TNS   : -15.723
+
+Type  : Slow 1200mV 0C Model Setup 'GM1:G|slow_clk'
+Slack : -5.514
+TNS   : -775.272
+
+Type  : Slow 1200mV 0C Model Setup 'GM1:G|fp'
+Slack : -5.474
+TNS   : -16.043
+
+Type  : Slow 1200mV 0C Model Setup 'GM1:G|ep'
+Slack : -5.405
+TNS   : -15.150
+
+Type  : Slow 1200mV 0C Model Setup 'GM1:G|cp'
+Slack : -5.366
+TNS   : -15.230
+
+Type  : Slow 1200mV 0C Model Setup 'CLK'
+Slack : -5.205
+TNS   : -686.669
+
+Type  : Slow 1200mV 0C Model Setup 'SW[0]'
+Slack : -4.724
+TNS   : -14.153
+
+Type  : Slow 1200mV 0C Model Setup 'randomV:vector|sclk'
+Slack : -4.237
+TNS   : -115.008
+
+Type  : Slow 1200mV 0C Model Setup 'timer:t|SCLK'
+Slack : -2.425
+TNS   : -7.091
+
+Type  : Slow 1200mV 0C Model Setup 'controller:CC|sp'
+Slack : -1.976
+TNS   : -32.747
+
+Type  : Slow 1200mV 0C Model Setup 'GM1:G|sp'
+Slack : -1.461
+TNS   : -1.461
+
+Type  : Slow 1200mV 0C Model Hold 'CLK'
+Slack : 0.289
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GM1:G|slow_clk'
+Slack : 0.289
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'randomV:vector|sclk'
+Slack : 0.305
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'controller:CC|sp'
+Slack : 0.306
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GM1:G|sp'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'timer:t|SCLK'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GM1:G|ep'
+Slack : 1.102
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'SW[0]'
+Slack : 1.266
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GM1:G|fp'
+Slack : 1.351
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GM1:G|cp'
+Slack : 1.436
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GM1:G|ap'
+Slack : 1.619
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GM1:G|dp'
+Slack : 1.738
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'GM1:G|bp'
+Slack : 2.148
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'CLK'
+Slack : -3.454
+TNS   : -3.454
+
+Type  : Slow 1200mV 0C Model Recovery 'GM1:G|sp'
+Slack : -2.743
+TNS   : -2.743
+
+Type  : Slow 1200mV 0C Model Recovery 'GM1:G|bp'
+Slack : -1.890
+TNS   : -5.228
+
+Type  : Slow 1200mV 0C Model Recovery 'GM1:G|dp'
+Slack : -1.294
+TNS   : -3.505
+
+Type  : Slow 1200mV 0C Model Recovery 'GM1:G|ap'
+Slack : -0.950
+TNS   : -2.850
+
+Type  : Slow 1200mV 0C Model Recovery 'GM1:G|cp'
+Slack : -0.869
+TNS   : -2.607
+
+Type  : Slow 1200mV 0C Model Recovery 'GM1:G|fp'
+Slack : -0.528
+TNS   : -1.584
+
+Type  : Slow 1200mV 0C Model Recovery 'GM1:G|ep'
+Slack : -0.441
+TNS   : -1.323
+
+Type  : Slow 1200mV 0C Model Removal 'GM1:G|ep'
+Slack : 0.813
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'GM1:G|fp'
+Slack : 0.905
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'GM1:G|cp'
+Slack : 1.270
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'GM1:G|dp'
+Slack : 1.311
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'GM1:G|ap'
+Slack : 1.355
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CLK'
+Slack : 1.629
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'GM1:G|bp'
+Slack : 1.863
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'GM1:G|sp'
+Slack : 3.198
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -290.615
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'SW[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GM1:G|slow_clk'
+Slack : -1.403
+TNS   : -286.212
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'randomV:vector|sclk'
+Slack : -1.403
+TNS   : -64.538
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'controller:CC|sp'
+Slack : -1.403
+TNS   : -28.060
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'timer:t|SCLK'
+Slack : -1.403
+TNS   : -5.612
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GM1:G|ap'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GM1:G|bp'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GM1:G|cp'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GM1:G|dp'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GM1:G|ep'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GM1:G|fp'
+Slack : -1.403
+TNS   : -4.209
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'GM1:G|sp'
+Slack : -1.403
+TNS   : -1.403
+
+Type  : Fast 1200mV 0C Model Setup 'GM1:G|bp'
+Slack : -2.407
+TNS   : -6.764
+
+Type  : Fast 1200mV 0C Model Setup 'GM1:G|dp'
+Slack : -2.170
+TNS   : -6.296
+
+Type  : Fast 1200mV 0C Model Setup 'SW[0]'
+Slack : -2.153
+TNS   : -6.185
+
+Type  : Fast 1200mV 0C Model Setup 'GM1:G|slow_clk'
+Slack : -2.128
+TNS   : -247.290
+
+Type  : Fast 1200mV 0C Model Setup 'GM1:G|fp'
+Slack : -2.008
+TNS   : -5.877
+
+Type  : Fast 1200mV 0C Model Setup 'GM1:G|ap'
+Slack : -2.004
+TNS   : -5.652
+
+Type  : Fast 1200mV 0C Model Setup 'CLK'
+Slack : -1.944
+TNS   : -204.032
+
+Type  : Fast 1200mV 0C Model Setup 'GM1:G|cp'
+Slack : -1.936
+TNS   : -5.445
+
+Type  : Fast 1200mV 0C Model Setup 'GM1:G|ep'
+Slack : -1.916
+TNS   : -5.270
+
+Type  : Fast 1200mV 0C Model Setup 'randomV:vector|sclk'
+Slack : -1.454
+TNS   : -32.747
+
+Type  : Fast 1200mV 0C Model Setup 'timer:t|SCLK'
+Slack : -0.872
+TNS   : -2.472
+
+Type  : Fast 1200mV 0C Model Setup 'controller:CC|sp'
+Slack : -0.365
+TNS   : -4.378
+
+Type  : Fast 1200mV 0C Model Setup 'GM1:G|sp'
+Slack : -0.149
+TNS   : -0.149
+
+Type  : Fast 1200mV 0C Model Hold 'GM1:G|slow_clk'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK'
+Slack : 0.141
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'controller:CC|sp'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'randomV:vector|sclk'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GM1:G|sp'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'timer:t|SCLK'
+Slack : 0.170
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GM1:G|ep'
+Slack : 0.417
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GM1:G|cp'
+Slack : 0.579
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GM1:G|fp'
+Slack : 0.582
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'SW[0]'
+Slack : 0.593
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GM1:G|ap'
+Slack : 0.663
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GM1:G|dp'
+Slack : 0.723
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'GM1:G|bp'
+Slack : 0.950
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'CLK'
+Slack : -1.219
+TNS   : -1.219
+
+Type  : Fast 1200mV 0C Model Recovery 'GM1:G|sp'
+Slack : -1.081
+TNS   : -1.081
+
+Type  : Fast 1200mV 0C Model Recovery 'GM1:G|bp'
+Slack : -0.485
+TNS   : -1.237
+
+Type  : Fast 1200mV 0C Model Recovery 'GM1:G|dp'
+Slack : -0.202
+TNS   : -0.423
+
+Type  : Fast 1200mV 0C Model Recovery 'GM1:G|ap'
+Slack : -0.036
+TNS   : -0.108
+
+Type  : Fast 1200mV 0C Model Recovery 'GM1:G|cp'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'GM1:G|fp'
+Slack : 0.143
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'GM1:G|ep'
+Slack : 0.248
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GM1:G|ep'
+Slack : 0.355
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GM1:G|fp'
+Slack : 0.452
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GM1:G|cp'
+Slack : 0.597
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GM1:G|dp'
+Slack : 0.622
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GM1:G|ap'
+Slack : 0.644
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLK'
+Slack : 0.702
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GM1:G|bp'
+Slack : 0.890
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'GM1:G|sp'
+Slack : 1.715
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK'
+Slack : -3.000
+TNS   : -215.377
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'SW[0]'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GM1:G|slow_clk'
+Slack : -1.000
+TNS   : -204.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'randomV:vector|sclk'
+Slack : -1.000
+TNS   : -46.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'controller:CC|sp'
+Slack : -1.000
+TNS   : -20.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'timer:t|SCLK'
+Slack : -1.000
+TNS   : -4.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GM1:G|ap'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GM1:G|bp'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GM1:G|cp'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GM1:G|dp'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GM1:G|ep'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GM1:G|fp'
+Slack : -1.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'GM1:G|sp'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------

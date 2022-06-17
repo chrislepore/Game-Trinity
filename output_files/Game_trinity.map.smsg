@@ -1,0 +1,2 @@
+Warning (10273): Verilog HDL warning at game_trinity.v(301): extended using "x" or "z" File: D:/Chris/Documents/Work/Engineering stuff/digital system design/game_trinity/game_trinity.v Line: 301
+Warning (10268): Verilog HDL information at game_trinity.v(283): always construct contains both blocking and non-blocking assignments File: D:/Chris/Documents/Work/Engineering stuff/digital system design/game_trinity/game_trinity.v Line: 283
