@@ -37,9 +37,9 @@ The controller state machine determines the flow of the game:
   - Displays defeat message (bottom dashes).
   - Compares current score with the high score and updates if necessary.
 
-### Diagram:
+### State Diagram:
 
-![Controller State Diagram](Controller-state-diagram.PNG)
+![Controller State Diagram](https://raw.githubusercontent.com/chrislepore/Game-Trinity/refs/heads/main/project_info/Images/Controller-state-diagram.PNG)
 
 ---
 
@@ -54,7 +54,7 @@ The game comprises the following modules:
 
 ### Diagram:
 
-![Full Block Diagram](Full-Block-Diagram.PNG)
+![Full Block Diagram](https://raw.githubusercontent.com/chrislepore/Game-Trinity/refs/heads/main/project_info/Images/Full-Block-Diagram.PNG)
 
 ---
 
@@ -70,7 +70,8 @@ The game comprises the following modules:
 - **Reset Behavior**:
   - Resets all internal registers and the win signal (`W`) after each round.
 - **Block Diagram**:
-  ![GM1 Block Diagram](GM1.PNG)
+
+  ![GM1 Block Diagram](https://raw.githubusercontent.com/chrislepore/Game-Trinity/refs/heads/main/project_info/Images/GM1.PNG)
 
 ### 2. RandomV Module
 - **Purpose**: Generates random 18-bit vectors, where every 3 bits represent a number for a total of 6 numbers.
@@ -79,7 +80,8 @@ The game comprises the following modules:
   - Transforms the LFSR output into a valid random sequence based on difficulty (`d`), determining the length of the vector and its complexity.
   - The vector remains stable during gameplay but changes at the start of a new round.
 - **Block Diagram**:
-  ![RandomV Block Diagram](RandomV.PNG)
+
+  ![RandomV Block Diagram](https://raw.githubusercontent.com/chrislepore/Game-Trinity/refs/heads/main/project_info/Images/RandomV.PNG)
 
 ### 3. Timer Module
 - **Purpose**: Provides a countdown timer and controls the LEDs to indicate the remaining time.
@@ -91,7 +93,8 @@ The game comprises the following modules:
 - **Reset Behavior**:
   - Resets the timer and LEDs at the beginning of a new round or game state.
 - **Block Diagram**:
-  ![Timer Block Diagram](Timer.PNG)
+
+  ![Timer Block Diagram](https://raw.githubusercontent.com/chrislepore/Game-Trinity/refs/heads/main/project_info/Images/Timer.PNG)
 
 ### 4. Controller Module
 - **Purpose**: Manages the game state and high scores.
@@ -111,6 +114,6 @@ The game comprises the following modules:
 The following image illustrate various states of the game during simulation and testing:
 
 
-![Verification Image](Verification.PNG)
+![Verification Image](https://raw.githubusercontent.com/chrislepore/Game-Trinity/refs/heads/main/project_info/Images/Verification.PNG)
 
 
