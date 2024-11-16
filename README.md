@@ -11,6 +11,8 @@ This project is a Verilog-based reaction game named **Game Combo**, where player
 4. **Dynamic Difficulty**: Adjustable via input switches, affecting the timer and combination complexity.
 5. **Timer and LEDs**: Countdown timer and LEDs visually indicate remaining time.
 
+**Note:** Project in repository is called **Game_Trinity**
+
 ---
 
 ## Controller State Diagram
